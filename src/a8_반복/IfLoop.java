@@ -11,6 +11,8 @@ public class IfLoop {
 				num++;
 			}
 			System.out.println(result);
+			
+			
 	}
 
 }
