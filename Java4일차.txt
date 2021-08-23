@@ -1,40 +1,40 @@
-JAVA 4ì¼ì°¨ ìˆ˜ì—…
+JAVA 4ÀÏÂ÷ ¼ö¾÷
 
-ë°±ì¤€ì‚¬ì´íŠ¸ ì†Œê°œ
-ìœ¤ë…„ê³„ì‚° í”„ë¡œê·¸ëž¨
+¹éÁØ»çÀÌÆ® ¼Ò°³
+À±³â°è»ê ÇÁ·Î±×·¥
 
 Git
-ì»¤ë°‹
-ížˆìŠ¤í† ë¦¬
+Ä¿¹Ô
+È÷½ºÅä¸®
 
-* ê¹ƒì˜ í•„ìš”ì„± ë” ì™€ë‹¿ê²Œ~ ã…‹ã…‹
-- ížˆìŠ¤í† ë¦¬ê¸°ëŠ¥? í˜‘ì—…ê¸°ëŠ¥? ë¸”ë¼ ë¸”ë¼~
-- ë¶„ì‚° ë²„ì „ ê´€ë¦¬ ì‹œìŠ¤í…œ
-* ì¤‘ê°„ ì¤‘ê°„ ë”°ë¼ì˜¤ëŠ”ì§€ ì§„í–‰ ì²´í¬
+* ±êÀÇ ÇÊ¿ä¼º ´õ ¿Í´ê°Ô~ ¤»¤»
+- È÷½ºÅä¸®±â´É? Çù¾÷±â´É? ºí¶ó ºí¶ó~
+- ºÐ»ê ¹öÀü °ü¸® ½Ã½ºÅÛ
+* Áß°£ Áß°£ µû¶ó¿À´ÂÁö ÁøÇà Ã¼Å©
 
-cmder ë‹¤ìš´ (ê¹ƒí¬í•¨ë²„ì „) https://cmder.net/
-* sourcetree ê¶ê¸ˆ?
+cmder ´Ù¿î (±êÆ÷ÇÔ¹öÀü) https://cmder.net/
+* sourcetree ±Ã±Ý?
 
-ê¹ƒì˜ ì´í•´ ì„¤ëª…
-working ì˜ì—­ 
-add -> stage ì˜ì—­
-commit -> git(history) ì €ìž¥ì†Œ ì˜ì—­
-checkout -> stage ì˜ì—­
+±êÀÇ ÀÌÇØ ¼³¸í
+working ¿µ¿ª 
+add -> stage ¿µ¿ª
+commit -> git(history) ÀúÀå¼Ò ¿µ¿ª
+checkout -> stage ¿µ¿ª
 
-ê¹ƒí—ˆë¸Œ í´ë¼ìš°ë“œ?
-ížˆìŠ¤í† ë¦¬ ì˜¬ë¦¬ê¸°?
+±êÇãºê Å¬¶ó¿ìµå?
+È÷½ºÅä¸® ¿Ã¸®±â?
 
-ì›ê²©ì €ìž¥ì†Œ ê¹ƒí—ˆë¸Œ
-ê¹ƒí—ˆë¸Œ ì˜¬ë¦¬ê¸° push 
-ê¹ƒí—ˆë¸Œ ë‚´ë¦¬ê¸° pull
+¿ø°ÝÀúÀå¼Ò ±êÇãºê
+±êÇãºê ¿Ã¸®±â push 
+±êÇãºê ³»¸®±â pull
 
-* sourcetree ì„¤ëª… ë‚˜ì˜¨ë‹¤~~ã…‹ã…‹
-* ê³„ì† ì—ëŸ¬... ë§í–ˆë‹¤~~~ã… .ã… 
+* sourcetree ¼³¸í ³ª¿Â´Ù~~¤»¤»
+* °è¼Ó ¿¡·¯... ¸ÁÇß´Ù~~~¤Ð.¤Ð
 
-* cmder ì™œ ë‹¤ìš´ ì„¤ì¹˜?
-* eclipseë¡œ ì—°ê²°í• ê±´ë° sourcetreeëŠ” ì™œ ë‹¤ìš´ ì„¤ì¹˜?
+* cmder ¿Ö ´Ù¿î ¼³Ä¡?
+* eclipse·Î ¿¬°áÇÒ°Çµ¥ sourcetree´Â ¿Ö ´Ù¿î ¼³Ä¡?
 
-eclipseë¡œ github ì—°ê²° ì„¤ëª…
-* ê·¸ëƒ¥ eclipseë¡œ ê¹ƒí—ˆë¸Œ ì—°ê²° ìˆ˜ì—… ì§„í–‰ì´ ë” ë‚˜ì„ë“¯!
+eclipse·Î github ¿¬°á ¼³¸í
+* ±×³É eclipse·Î ±êÇãºê ¿¬°á ¼ö¾÷ ÁøÇàÀÌ ´õ ³ªÀ»µí!
 
 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
