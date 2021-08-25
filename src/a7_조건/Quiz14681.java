@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Quiz14681 {
 
 	public static void main(String[] args) {
-		Scanner axixValue = new Scanner(System.axixValue);
+		Scanner sc = new Scanner(System.in);
 		System.out.print("x축: ");
-		int x = axixValue.nextInt();
+		int x = sc.nextInt();
 		
 		System.out.print("y축: ");
-		int y = axixValue.nextInt();
+		int y = sc.nextInt();
 		
 		if(x > 0 && y > 0) {
 			System.out.println("1사분면");

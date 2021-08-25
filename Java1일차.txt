@@ -37,7 +37,10 @@ wirte once run anywhere
 JSP Servelet Spring + Android 추가?
 
 자바개발환경 구축 (실제 해보면 좋을듯, 설치전 초기화 가능?)
+
+준일샘 사이트
 https://sites.google.com/view/kji-java/index
+
 기설치? 집에서 설치 꼭!
 JDK, JRE(JVM포함) 설치 -> C? C++? Python?
 Eclipse IDE(통합개발환경) 설치

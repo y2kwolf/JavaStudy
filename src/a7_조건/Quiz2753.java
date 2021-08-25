@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Quiz2753 {
 
 	public static void main(String[] args) {
+		System.out.print("년도를 입력해 주세요: ");
 		Scanner in = new Scanner(System.in); 
 		// Scanner 뒤에 ctrl+space import j,u,S test
 		
