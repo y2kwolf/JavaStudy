@@ -1,0 +1,6 @@
+JAVA 8일차 수업
+
+
+getter 
+
+setter

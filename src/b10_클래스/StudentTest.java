@@ -3,21 +3,21 @@ package b10_클래스;
 public class StudentTest {
 
 	public static void main(String[] args) {
+		Student kim = new Student("김준일", "코리아아이티", 4);
+		Student lee = new Student("이지원", "코리아아이티", 2);
+		Student jin = new Student("진상영", "서울디지털대학", 3);
 		
-		Student kim = new Student(); // 생성자(Constructor) -> 클래스명과 같다.
-		kim.name = "김재성";
-		kim.schoolName = "부산대학교";
-		kim.year = "1";
+		//kim.name = "김준일"; //   .은 해당 메모리 주소값을 참조한다라고 한다.
+		
 		kim.showInfo();
 		
-		Student lee = new Student();		
-		lee.name = "이효원";
-		lee.schoolName = "부경대학교";
-		lee.year = "4";
-		lee.showInfo();
+		Integer i = new Integer(100);
 		
-		System.out.println(kim); // 객체의 메모리주소 반환
-		System.out.println(lee);
+		System.out.println(kim.hashCode());
+		System.out.println(i.hashCode());
+		
+		kim.getFreebies();
+		lee.getFreebies();
 	}
 
 }
